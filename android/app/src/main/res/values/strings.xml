@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">YKS Takip</string>
+    <string name="title_activity_main">YKS Takip</string>
+    <string name="package_name">com.yksreis.takip</string>
+    <string name="custom_url_scheme">com.yksreis.takip</string>
+</resources>
