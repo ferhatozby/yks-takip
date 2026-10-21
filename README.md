@@ -29,7 +29,6 @@ npm install
 npx cap open android
 ```
 
-Android Studio açıldıktan sonra **Build → Build Bundle(s) / APK(s) → Build APK(s)** ile derleyebilirsin. Detaylı adımlar için `OKUBENI.md` dosyasına bakabilirsin.
 
 ## Lisans
 
